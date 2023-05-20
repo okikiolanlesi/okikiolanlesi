@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @okikiolanlesi
+- 👋 Hi, I’m Okikiola Osunronbi
 - 👀 I’m interested in contributing to open source projects, preferably projects built with javascript/typescript
 - 🌱 I’m currently learning how to build apps using the microservice architecture
 - 💞️ I’m looking to collaborate on building web applications of any kind
